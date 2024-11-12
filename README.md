@@ -10,6 +10,7 @@ The **Customer Churn Analysis Dashboard** is an interactive Power BI report that
   - **Customer Num**: Displays the total number of customers.
   - **Lost Customers**: Shows the number of customers who have churned.
   - **Churn Rate**: Presents the churn rate as a percentage of the total customer base, along with a mini gauge to highlight current churn performance.
+  
   ![Metrics](metrics.png)
 
 - **Customer Segmentation by Categories**:
